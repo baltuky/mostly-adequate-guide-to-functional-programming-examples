@@ -1,0 +1,1 @@
+# Professor Frisby's Mostly Adequate Guide To Functional Programming code examples
